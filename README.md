@@ -356,10 +356,10 @@ Possible upgrades:
 I am adding demo images of the dashboard.
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpeg)
 
 ### Proof
-![Profile](images/proof.png)
+![Profile](images/proof.jpeg)
 
 ---
 
